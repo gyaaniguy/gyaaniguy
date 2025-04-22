@@ -10,7 +10,8 @@
 ---
 
 🛠 Recent Work:
-- ⭐ [Personal Drive](https://github.com/gyaaniguy/personal-drive) – Self-hosted Google Drive alt.  
+- ⭐ [Personal Drive](https://github.com/gyaaniguy/personal-drive) – Self-hosted Google Drive alt ![Stars](https://img.shields.io/github/stars/gyaaniguy/personal-drive?style=social)
+
 - ✅ [Laravel PR](https://github.com/laravel/framework/pull/53941) – Merged into core
 
 ---
