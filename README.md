@@ -4,24 +4,24 @@
 
 🧠 Full Stack Dev – 8+ yrs  
 💻 PHP, JS, Laravel, React, Node.js  
-🔧 Git, Docker, SQL, Linux, TDD, Clean Code  
+🔧 Git, Docker, SQL, Linux, ZSH, Clean Code  
 🌍 Remote-friendly | UTC+5:30
 
 ---
 
 🛠 Recent Work:
-- ⭐ [Personal Drive](https://github.com/gyaaniguy/personal-drive) – Self-hosted Google Drive alt ![Stars](https://img.shields.io/github/stars/gyaaniguy/personal-drive?style=social)
+- ⭐ [Personal Drive](https://github.com/gyaaniguy/personal-drive)  ![Stars](https://img.shields.io/github/stars/gyaaniguy/personal-drive?style=social) – Self-hosted Google Drive alt
 
 - ✅ [Laravel PR](https://github.com/laravel/framework/pull/53941) – Merged into core
 
 ---
 
-🤝 About Me:
-- Ethical, team-first mindset  
-- Great on video calls and async comms  
-- Clear communicator and doc writer  
-- Prioritize company’s goals and quality code  
-- Focused, calm, and reliable in tough spots
+🤝 About Me:  
+
+Coding isn’t work for me — it’s my passion, my hobby. I genuinely love getting into the product, understanding it, improving it.  
+I care about clean code, team success, and doing what’s best for the project. I end up writing docs, taking initiative, going above and beyond.  
+
+^ Not just words written for a resume. This is who I am.
 
 ---
 
